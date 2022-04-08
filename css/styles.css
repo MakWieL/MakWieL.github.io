@@ -61,6 +61,28 @@ nav li {
 	color: #000;
 }
 
+.contactsBlock {
+	min-width: 960px;
+	min-height: 200px;
+}
+
+.contactsBlock div {
+	float: left;
+}
+
+.contactShop1 {
+	min-width: 200px;
+}
+
+.contactsCenter {
+	min-width: 560px;
+	
+}
+
+.contactShop2 {
+	min-width: 200px;
+}
+
 cite {
 	color: white;
 }
@@ -492,3 +514,20 @@ blockquote-left p {
 	font-size: 35px;
 	color:rgb(0, 0, 0)
 }
+
+.news h1 {
+	font-size: 35px;
+	color: #000;
+}
+
+#bg{
+	width: 400px;
+	height: 250px;
+	background-image: url(html.png);
+   }
+   
+   #bg{
+	width: 400px;
+	height: 250px;
+	background-image: url(html.png);
+   }
